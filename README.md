@@ -1,5 +1,6 @@
 # shake-magic-8-ball
 
+# Need to add mobile capability
 
 
 https://shake-magic-8-ball.netlify.app/
