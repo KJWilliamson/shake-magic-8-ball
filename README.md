@@ -1,6 +1,7 @@
-# shake-magic-8-ball
+## Magic-8-ball that shakes built with HTML, CSS, and Javascript.
 
-# Need to add mobile capability
+
+#### Need to add mobile capability
 
 
 https://shake-magic-8-ball.netlify.app/
